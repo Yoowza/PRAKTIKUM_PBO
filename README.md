@@ -1,4 +1,4 @@
 # Praktikum pemrograman berorientasi objek
 
-Nama : Reza Saputra
-Nim : 230705229
+NAMA : Reza Saputra
+NIM : 230705229
